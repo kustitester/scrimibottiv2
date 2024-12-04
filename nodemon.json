@@ -1,0 +1,6 @@
+{
+    "watch": ["game_schedule.json"],
+    "ext": "js,json",
+    "exec": "node index.js"
+  }
+  

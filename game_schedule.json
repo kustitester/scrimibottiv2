@@ -1,0 +1,41 @@
+{
+  "Game1": {
+    "date": "Torstai 15.8.",
+    "time": "20:00",
+    "game": "FEAR+ vs RoundsGG"
+  },
+  "Game2": {
+    "date": "Sunnuntai 18.8.",
+    "time": "",
+    "game": ""
+  },
+  "Game3": {
+    "date": "Maanantai 19.8.",
+    "time": "18:00",
+    "game": "DMG Esports FI vs Turba Simiarum"
+  },
+  "Game4": {
+    "date": "Sunnuntai 1.9.",
+    "time": "20:00*",
+    "game": "RoundsGG vs Bastu Five"
+  },
+  "Game5": {},
+  "Game6": {
+    "date": "Torstai 12.9.",
+    "time": "19:00",
+    "game": "DMG Esports FI vs SIC Esports"
+  },
+  "Game7": {
+    "time": "VIIKKO 6 (19.9. & 22.9.)"
+  },
+  "Game8": {
+    "date": "Torstai 19.9.",
+    "time": "18:00",
+    "game": "Huutis Gaming vs DMG Esports FI"
+  },
+  "Game9": {
+    "date": "Torstai 26.9.",
+    "time": "Patch 14.19",
+    "game": ""
+  }
+}
